@@ -67,7 +67,7 @@ Backend: Node.js, Express.js, Nodemon
 
 Database: MongoDB (Mongoose, TTL Cache Index)
 
-APIs & Services: SerpApi (google_maps, google_images, google), Google Gemini API
+APIs & Services: SerpApi (google_maps, google_images, google), Google Gemini API(3.5-flash-lite)
 
 🚀 Quick Start & Setup Instructions
 
